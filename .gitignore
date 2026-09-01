@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# Virtualenv
+.venv/
+venv/
+
+# Secrets / local config
+.env
+
+# Generated artifacts
+*.db
+
+# macOS
+.DS_Store

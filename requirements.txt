@@ -1,0 +1,7 @@
+# Core agent framework (tool-calling) + Anthropic model client.
+# pydantic-ai-slim keeps the install small; [anthropic] pulls the anthropic SDK.
+pydantic-ai-slim[anthropic]>=2.36,<3
+python-dotenv>=1.0
+
+# Dev / test
+pytest>=8.0.0

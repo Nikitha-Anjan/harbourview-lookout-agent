@@ -1,0 +1,1222 @@
+date,ticket_type,channel,quantity,unit_price,refunded_qty
+2025-06-01,Adult,online,62,31.5,4
+2025-06-01,Adult,onsite,56,35.0,0
+2025-06-01,Child,online,72,18.0,3
+2025-06-01,Child,onsite,117,20.0,6
+2025-06-01,Senior,online,39,24.75,0
+2025-06-01,Senior,onsite,62,27.5,2
+2025-06-01,Family,online,95,84.38,6
+2025-06-01,Family,onsite,115,93.75,9
+2025-06-01,Annual Pass,online,4,,0
+2025-06-01,Annual Pass,,13,150.0,0
+2025-06-02,Adult,online,80,31.5,2
+2025-06-02,Adult,onsite,86,35.0,3
+2025-06-02,Child,online,69,18.0,2
+2025-06-02,Child,onsite,21,20.0,1
+2025-06-02,Senior,,65,24.75,4
+2025-06-02,Senior,onsite,85,27.5,5
+2025-06-02,Family,online,51,84.38,1
+2025-06-02,Family,onsite,75,93.75,3
+2025-06-02,Annual Pass,online,3,135.0,0
+2025-06-02,annual pass ,onsite,14,150.0,0
+2025-06-03,Adult,online,56,31.5,3
+2025-06-03,Adult,onsite,58,35.0,1
+2025-06-03,Child,online,44,18.0,0
+2025-06-03,Child,onsite,106,20.0,0
+2025-06-03,Senior,online,85,,2
+2025-06-03,Senior,onsite,66,27.5,0
+2025-06-03,Family,online,29,84.38,1
+2025-06-03,Family,onsite,101,93.75,5
+2025-06-03,Annual Pass,online,6,135.0,0
+2025-06-03,Annual Pass,onsite,6,150.0,0
+2025-06-04,Adult,online,49,31.5,3
+2025-06-04,Adult,onsite,28,35.0,1
+2025-06-04,Child,online,16,18.0,1
+2025-06-04,Child,onsite,30,20.0,0
+2025-06-04,Senior,online,44,24.75,3
+2025-06-04,Senior,onsite,41,27.5,2
+2025-06-04,Family,online,49,84.38,3
+2025-06-04,Family,onsite,55,93.75,0
+2025-06-04,Annual Pass,online,8,135.0,0
+2025-06-04,Annual Pass,onsite,9,150.0,0
+2025-06-05,Adult,online,21,31.5,1
+2025-06-05,Adult,onsite,13,35.0,0
+2025-06-05,Child,online,37,,2
+2025-06-05,Child,onsite,58,20.0,1
+2025-06-05,senior ,online,55,24.75,3
+2025-06-05,Senior,onsite,29,27.5,0
+2025-06-05,Family,online,64,84.38,2
+2025-06-05,Family,onsite,46,93.75,1
+2025-06-05,Annual Pass,online,8,135.0,0
+2025-06-05,Annual Pass,onsite,8,150.0,0
+2025-06-06,Adult,online,56,31.5,4
+2025-06-06,Adult,onsite,28,35.0,0
+2025-06-06,Child,online,53,18.0,0
+2025-06-06,Child,onsite,28,20.0,1
+2025-06-06,Senior,,30,24.75,1
+2025-06-06,Senior,onsite,59,27.5,0
+2025-06-06,Family,online,34,84.38,1
+2025-06-06,Family,,43,93.75,0
+2025-06-06,Annual Pass,online,10,135.0,0
+2025-06-06,Annual Pass,onsite,4,150.0,0
+2025-06-07,Adult,online,101,31.5,5
+2025-06-07,Adult,onsite,97,35.0,3
+2025-06-07,Child,online,62,18.0,4
+2025-06-07,Child,onsite,26,20.0,0
+2025-06-07,Senior,online,89,24.75,5
+2025-06-07,Senior,onsite,84,27.5,0
+2025-06-07,Family,online,31,84.38,0
+2025-06-07,Family,onsite,33,93.75,1
+2025-06-07,Annual Pass,online,16,135.0,0
+2025-06-07,Annual Pass,onsite,7,150.0,0
+2025-06-08,ADULT,,61,31.5,2
+2025-06-08,adult ,onsite,48,35.0,0
+2025-06-08,Child,online,63,18.0,0
+2025-06-08,Child,,69,20.0,0
+2025-06-08,Senior,online,58,24.75,4
+2025-06-08,Senior,onsite,24,27.5,1
+2025-06-08,Family,online,34,84.38,1
+2025-06-08,Family,onsite,55,,0
+2025-06-08,Annual Pass,online,10,135.0,0
+2025-06-08,Annual Pass,onsite,7,150.0,0
+2025-06-09,Adult,online,59,31.5,1
+2025-06-09,adult ,onsite,27,35.0,1
+2025-06-09,Child,online,55,18.0,2
+2025-06-09,Child,onsite,100,20.0,0
+2025-06-09,Senior,online,87,24.75,0
+2025-06-09,Senior,onsite,36,27.5,1
+2025-06-09,Family,online,91,84.38,3
+2025-06-09,Family,onsite,69,93.75,5
+2025-06-09,Annual Pass,online,16,135.0,0
+2025-06-09,Annual Pass,onsite,9,150.0,0
+2025-06-10,Adult,online,75,31.5,5
+2025-06-10,Adult,onsite,25,35.0,0
+2025-06-10,Child,online,31,18.0,2
+2025-06-10,Child,onsite,76,20.0,2
+2025-06-10,Senior,online,54,24.75,0
+2025-06-10,Senior,onsite,102,27.5,4
+2025-06-10,Family,online,20,84.38,1
+2025-06-10,Family,onsite,69,93.75,0
+2025-06-10,Annual Pass,online,4,135.0,0
+2025-06-10,Annual Pass,onsite,3,150.0,0
+2025-06-11,Adult,online,27,31.5,1
+2025-06-11,Adult,onsite,39,35.0,2
+2025-06-11,Child,online,19,18.0,1
+2025-06-11,Child,onsite,56,20.0,2
+2025-06-11,Senior,,26,24.75,1
+2025-06-11,Senior,onsite,34,27.5,1
+2025-06-11,Family,online,29,84.38,1
+2025-06-11,family ,onsite,48,93.75,1
+2025-06-11,Annual Pass,online,5,135.0,0
+2025-06-11,Annual Pass,onsite,5,150.0,0
+2025-06-12,Adult,online,71,31.5,5
+2025-06-12,Adult,onsite,113,35.0,4
+2025-06-12,Child,online,27,18.0,1
+2025-06-12,Child,onsite,50,20.0,0
+2025-06-12,Senior,online,111,24.75,4
+2025-06-12,Senior,onsite,92,27.5,5
+2025-06-12,Family,online,21,84.38,1
+2025-06-12,Family,onsite,24,93.75,0
+2025-06-12,Annual Pass,online,14,135.0,0
+2025-06-12,annual pass ,onsite,15,150.0,0
+2025-06-13,ADULT,online,87,,3
+2025-06-13,Adult,onsite,85,35.0,3
+2025-06-13,Child,online,92,18.0,2
+2025-06-13,Child,onsite,116,20.0,6
+2025-06-13,Senior,online,39,,2
+2025-06-13,Senior,onsite,68,27.5,0
+2025-06-13,Family,online,73,84.38,0
+2025-06-13,Family,onsite,31,93.75,2
+2025-06-13,Annual Pass,online,3,135.0,0
+2025-06-13,Annual Pass,onsite,8,150.0,0
+2025-06-14,Adult,online,61,31.5,2
+2025-06-14,Adult,onsite,23,35.0,0
+2025-06-14,Child,online,110,,7
+2025-06-14,Child,onsite,77,20.0,3
+2025-06-14,Senior,online,31,24.75,1
+2025-06-14,Senior,onsite,36,27.5,2
+2025-06-14,Family,online,78,84.38,4
+2025-06-14,Family,onsite,66,93.75,4
+2025-06-14,Annual Pass,online,17,135.0,0
+2025-06-14,Annual Pass,onsite,5,150.0,0
+2025-06-15,Adult,online,22,31.5,0
+2025-06-15,Adult,onsite,41,35.0,0
+2025-06-15,Child,online,27,18.0,1
+2025-06-15,Child,onsite,60,20.0,1
+2025-06-15,Senior,online,40,24.75,3
+2025-06-15,Senior,onsite,45,27.5,3
+2025-06-15,Family,online,18,84.38,0
+2025-06-15,Family,onsite,57,93.75,4
+2025-06-15,Annual Pass,online,2,135.0,0
+2025-06-15,Annual Pass,onsite,3,150.0,0
+2025-06-16,Adult,online,69,31.5,4
+2025-06-16,Adult,onsite,32,,0
+2025-06-16,Child,online,103,18.0,3
+2025-06-16,Child,onsite,91,20.0,3
+2025-06-16,Senior,online,72,24.75,4
+2025-06-16,Senior,onsite,109,27.5,8
+2025-06-16,Family,online,64,84.38,3
+2025-06-16,Family,onsite,53,93.75,1
+2025-06-16,Annual Pass,online,3,135.0,0
+2025-06-16,Annual Pass,onsite,17,150.0,1
+2025-06-17,Adult,online,108,31.5,6
+2025-06-17,Adult,onsite,54,35.0,3
+2025-06-17,Child,online,60,18.0,3
+2025-06-17,Child,onsite,64,20.0,1
+2025-06-17,Senior,online,108,24.75,0
+2025-06-17,Senior,onsite,107,27.5,4
+2025-06-17,Family,,51,84.38,1
+2025-06-17,Family,onsite,73,93.75,1
+2025-06-17,Annual Pass,online,10,135.0,0
+2025-06-17,Annual Pass,onsite,4,150.0,0
+2025-06-18,Adult,online,20,31.5,0
+2025-06-18,Adult,onsite,91,35.0,6
+2025-06-18,Child,online,49,18.0,2
+2025-06-18,Child,onsite,57,20.0,3
+2025-06-18,Senior,online,97,24.75,3
+2025-06-18,Senior,onsite,29,27.5,0
+2025-06-18,Family,online,87,84.38,2
+2025-06-18,Family,onsite,78,93.75,3
+2025-06-18,Annual Pass,online,13,135.0,0
+2025-06-18,Annual Pass,onsite,9,150.0,0
+2025-06-19,Adult,online,65,31.5,0
+2025-06-19,Adult,onsite,31,35.0,2
+2025-06-19,Child,online,72,18.0,0
+2025-06-19,Child,onsite,22,20.0,0
+2025-06-19,Senior,online,50,,1
+2025-06-19,SENIOR,onsite,74,27.5,0
+2025-06-19,Family,online,65,84.38,1
+2025-06-19,Family,onsite,33,93.75,0
+2025-06-19,annual pass ,online,5,135.0,0
+2025-06-19,Annual Pass,onsite,8,150.0,0
+2025-06-20,adult ,online,38,,0
+2025-06-20,Adult,onsite,49,35.0,3
+2025-06-20,Child,online,16,18.0,1
+2025-06-20,Child,,43,20.0,2
+2025-06-20,Senior,online,43,24.75,3
+2025-06-20,senior ,onsite,61,27.5,2
+2025-06-20,Family,online,46,84.38,1
+2025-06-20,Family,onsite,13,93.75,0
+2025-06-20,Annual Pass,online,6,135.0,0
+2025-06-20,annual pass ,onsite,10,150.0,0
+2025-06-21,adult ,online,91,31.5,2
+2025-06-21,Adult,onsite,45,35.0,3
+2025-06-21,Child,online,79,18.0,1
+2025-06-21,Child,onsite,46,,1
+2025-06-21,SENIOR,online,83,24.75,6
+2025-06-21,Senior,onsite,30,27.5,1
+2025-06-21,Family,online,64,84.38,4
+2025-06-21,Family,onsite,74,93.75,0
+2025-06-21,Annual Pass,online,11,135.0,0
+2025-06-21,annual pass ,onsite,12,150.0,0
+2025-06-22,Adult,online,45,31.5,2
+2025-06-22,Adult,onsite,104,35.0,2
+2025-06-22,Child,online,28,18.0,1
+2025-06-22,Child,onsite,107,20.0,1
+2025-06-22,Senior,online,114,24.75,5
+2025-06-22,Senior,onsite,86,27.5,2
+2025-06-22,Family,online,111,,1
+2025-06-22,Family,onsite,20,93.75,0
+2025-06-22,Annual Pass,online,8,135.0,0
+2025-06-22,Annual Pass,onsite,16,150.0,1
+2025-06-23,Adult,online,57,31.5,2
+2025-06-23,Adult,onsite,118,,1
+2025-06-23,Child,online,94,18.0,5
+2025-06-23,Child,onsite,101,20.0,5
+2025-06-23,Senior,online,116,24.75,0
+2025-06-23,Senior,onsite,20,27.5,1
+2025-06-23,Family,online,70,84.38,0
+2025-06-23,Family,onsite,80,93.75,1
+2025-06-23,Annual Pass,online,16,135.0,1
+2025-06-23,Annual Pass,onsite,15,150.0,0
+2025-06-24,ADULT,online,52,31.5,3
+2025-06-24,Adult,onsite,51,35.0,3
+2025-06-24,Child,online,19,18.0,0
+2025-06-24,Child,onsite,55,20.0,0
+2025-06-24,Senior,online,35,24.75,0
+2025-06-24,Senior,onsite,25,27.5,1
+2025-06-24,Family,,31,84.38,0
+2025-06-24,Family,onsite,13,93.75,0
+2025-06-24,Annual Pass,online,6,135.0,0
+2025-06-24,Annual Pass,onsite,3,150.0,0
+2025-06-25,Adult,online,64,31.5,0
+2025-06-25,Adult,onsite,109,35.0,6
+2025-06-25,Child,online,25,18.0,1
+2025-06-25,Child,onsite,25,20.0,1
+2025-06-25,Senior,online,106,24.75,6
+2025-06-25,Senior,onsite,62,27.5,3
+2025-06-25,Family,online,22,,0
+2025-06-25,Family,onsite,91,93.75,4
+2025-06-25,Annual Pass,online,10,135.0,0
+2025-06-25,Annual Pass,onsite,4,150.0,0
+2025-06-26,Adult,online,51,31.5,1
+2025-06-26,Adult,onsite,39,35.0,1
+2025-06-26,Child,online,51,18.0,0
+2025-06-26,Child,onsite,15,20.0,0
+2025-06-26,Senior,online,15,24.75,0
+2025-06-26,Senior,onsite,53,27.5,3
+2025-06-26,Family,online,31,84.38,0
+2025-06-26,Family,onsite,66,93.75,3
+2025-06-26,Annual Pass,online,6,135.0,0
+2025-06-26,ANNUAL PASS,,5,150.0,0
+2025-06-27,Adult,online,75,31.5,0
+2025-06-27,Adult,onsite,55,35.0,4
+2025-06-27,Child,online,46,18.0,0
+2025-06-27,Child,onsite,37,20.0,0
+2025-06-27,Senior,online,85,24.75,6
+2025-06-27,Senior,onsite,56,27.5,1
+2025-06-27,Family,online,82,84.38,2
+2025-06-27,Family,onsite,33,93.75,0
+2025-06-27,Annual Pass,online,9,135.0,0
+2025-06-27,Annual Pass,onsite,15,150.0,0
+2025-06-28,Adult,online,48,31.5,0
+2025-06-28,Adult,onsite,92,35.0,5
+2025-06-28,Child,online,58,18.0,4
+2025-06-28,Child,onsite,37,20.0,2
+2025-06-28,Senior,online,67,24.75,3
+2025-06-28,Senior,onsite,40,27.5,2
+2025-06-28,Family,online,62,84.38,1
+2025-06-28,Family,onsite,28,93.75,1
+2025-06-28,Annual Pass,online,3,135.0,0
+2025-06-28,Annual Pass,,8,150.0,0
+2025-06-29,Adult,online,46,31.5,0
+2025-06-29,Adult,onsite,74,35.0,0
+2025-06-29,Child,online,56,18.0,2
+2025-06-29,Child,onsite,94,20.0,5
+2025-06-29,Senior,online,33,24.75,2
+2025-06-29,Senior,onsite,97,27.5,2
+2025-06-29,FAMILY,online,102,84.38,6
+2025-06-29,Family,onsite,115,93.75,7
+2025-06-29,Annual Pass,online,6,135.0,0
+2025-06-29,Annual Pass,onsite,8,150.0,0
+2025-06-30,Adult,,61,31.5,2
+2025-06-30,Adult,onsite,107,35.0,2
+2025-06-30,Child,online,55,18.0,0
+2025-06-30,Child,onsite,89,20.0,2
+2025-06-30,Senior,online,33,24.75,2
+2025-06-30,Senior,onsite,111,27.5,5
+2025-06-30,Family,online,26,84.38,0
+2025-06-30,Family,onsite,83,93.75,2
+2025-06-30,ANNUAL PASS,online,15,135.0,0
+2025-06-30,Annual Pass,onsite,8,150.0,0
+2025-07-01,Adult,online,56,31.5,0
+2025-07-01,Adult,onsite,118,35.0,1
+2025-07-01,Child,online,110,18.0,1
+2025-07-01,Child,onsite,86,20.0,1
+2025-07-01,Senior,online,91,24.75,3
+2025-07-01,Senior,onsite,102,27.5,4
+2025-07-01,FAMILY,online,69,84.38,2
+2025-07-01,Family,onsite,111,93.75,3
+2025-07-01,Annual Pass,online,15,135.0,1
+2025-07-01,Annual Pass,onsite,9,150.0,0
+2025-07-02,Adult,online,89,31.5,0
+2025-07-02,adult ,onsite,73,35.0,3
+2025-07-02,Child,online,110,18.0,3
+2025-07-02,Child,onsite,95,20.0,3
+2025-07-02,SENIOR,online,40,24.75,0
+2025-07-02,Senior,onsite,66,27.5,1
+2025-07-02,Family,online,45,84.38,2
+2025-07-02,Family,onsite,66,93.75,0
+2025-07-02,Annual Pass,online,10,135.0,0
+2025-07-02,Annual Pass,onsite,5,150.0,0
+2025-07-03,Adult,online,21,31.5,0
+2025-07-03,Adult,onsite,109,35.0,4
+2025-07-03,Child,online,72,18.0,3
+2025-07-03,CHILD,onsite,64,20.0,3
+2025-07-03,Senior,,44,,3
+2025-07-03,Senior,onsite,21,27.5,1
+2025-07-03,Family,online,29,84.38,1
+2025-07-03,Family,onsite,71,93.75,4
+2025-07-03,Annual Pass,online,16,135.0,0
+2025-07-03,Annual Pass,,7,150.0,0
+2025-07-04,Adult,online,42,31.5,2
+2025-07-04,Adult,onsite,108,35.0,3
+2025-07-04,Child,online,91,18.0,5
+2025-07-04,Child,onsite,29,20.0,0
+2025-07-04,Senior,online,97,24.75,1
+2025-07-04,senior ,,117,27.5,6
+2025-07-04,Family,online,64,84.38,2
+2025-07-04,Family,onsite,21,93.75,0
+2025-07-04,annual pass ,online,9,135.0,0
+2025-07-04,Annual Pass,onsite,6,150.0,0
+2025-07-05,Adult,online,118,31.5,4
+2025-07-05,Adult,onsite,98,35.0,0
+2025-07-05,Child,online,95,18.0,1
+2025-07-05,Child,onsite,25,20.0,1
+2025-07-05,Senior,online,42,24.75,2
+2025-07-05,Senior,onsite,26,27.5,1
+2025-07-05,Family,online,113,84.38,1
+2025-07-05,Family,onsite,40,93.75,1
+2025-07-05,Annual Pass,online,5,135.0,0
+2025-07-05,Annual Pass,onsite,17,150.0,0
+2025-07-06,Adult,online,55,31.5,1
+2025-07-06,Adult,onsite,63,35.0,0
+2025-07-06,Child,online,62,18.0,0
+2025-07-06,Child,onsite,75,20.0,1
+2025-07-06,Senior,online,76,24.75,2
+2025-07-06,Senior,onsite,111,27.5,0
+2025-07-06,Family,online,60,84.38,1
+2025-07-06,family ,onsite,50,93.75,3
+2025-07-06,Annual Pass,online,4,135.0,0
+2025-07-06,Annual Pass,onsite,14,150.0,0
+2025-07-07,Adult,online,33,31.5,0
+2025-07-07,Adult,onsite,40,,2
+2025-07-07,Child,online,51,18.0,0
+2025-07-07,Child,onsite,26,20.0,1
+2025-07-07,Senior,online,17,24.75,0
+2025-07-07,Senior,onsite,16,27.5,1
+2025-07-07,Family,online,53,84.38,2
+2025-07-07,Family,onsite,55,93.75,3
+2025-07-07,Annual Pass,online,6,135.0,0
+2025-07-07,ANNUAL PASS,onsite,8,150.0,0
+2025-07-08,Adult,online,29,31.5,1
+2025-07-08,Adult,onsite,63,35.0,0
+2025-07-08,Child,online,70,18.0,0
+2025-07-08,Child,onsite,94,20.0,6
+2025-07-08,Senior,online,64,24.75,4
+2025-07-08,senior ,,28,27.5,0
+2025-07-08,FAMILY,online,68,84.38,4
+2025-07-08,FAMILY,onsite,86,93.75,5
+2025-07-08,Annual Pass,online,8,135.0,0
+2025-07-08,Annual Pass,onsite,14,150.0,0
+2025-07-09,Adult,online,51,31.5,0
+2025-07-09,Adult,,117,35.0,8
+2025-07-09,Child,,60,18.0,4
+2025-07-09,Child,onsite,73,20.0,5
+2025-07-09,Senior,online,88,,6
+2025-07-09,Senior,onsite,83,27.5,6
+2025-07-09,Family,online,116,84.38,6
+2025-07-09,Family,onsite,93,93.75,5
+2025-07-09,Annual Pass,online,10,135.0,0
+2025-07-09,Annual Pass,onsite,12,150.0,0
+2025-07-10,Adult,online,91,31.5,0
+2025-07-10,Adult,onsite,119,35.0,9
+2025-07-10,Child,online,68,18.0,2
+2025-07-10,Child,,89,20.0,0
+2025-07-10,Senior,online,52,24.75,1
+2025-07-10,Senior,onsite,115,27.5,6
+2025-07-10,Family,online,69,84.38,4
+2025-07-10,Family,onsite,112,93.75,0
+2025-07-10,Annual Pass,online,13,135.0,0
+2025-07-10,Annual Pass,onsite,6,150.0,0
+2025-07-11,Adult,online,47,31.5,0
+2025-07-11,Adult,onsite,30,35.0,0
+2025-07-11,Child,online,22,18.0,0
+2025-07-11,Child,onsite,67,20.0,0
+2025-07-11,Senior,online,12,24.75,0
+2025-07-11,Senior,onsite,24,27.5,1
+2025-07-11,FAMILY,online,62,84.38,4
+2025-07-11,Family,onsite,52,93.75,1
+2025-07-11,Annual Pass,online,3,135.0,0
+2025-07-11,Annual Pass,onsite,3,150.0,0
+2025-07-12,Adult,online,93,31.5,6
+2025-07-12,Adult,onsite,49,,3
+2025-07-12,Child,online,59,18.0,1
+2025-07-12,Child,onsite,27,20.0,1
+2025-07-12,Senior,online,74,24.75,0
+2025-07-12,Senior,onsite,25,27.5,1
+2025-07-12,Family,online,64,84.38,2
+2025-07-12,Family,onsite,39,93.75,2
+2025-07-12,Annual Pass,online,14,135.0,0
+2025-07-12,Annual Pass,onsite,5,150.0,0
+2025-07-13,Adult,online,31,31.5,1
+2025-07-13,Adult,onsite,92,35.0,1
+2025-07-13,Child,online,79,18.0,1
+2025-07-13,Child,onsite,87,20.0,0
+2025-07-13,SENIOR,online,83,24.75,2
+2025-07-13,Senior,onsite,84,27.5,6
+2025-07-13,family ,online,67,84.38,3
+2025-07-13,Family,onsite,119,93.75,6
+2025-07-13,Annual Pass,online,13,135.0,0
+2025-07-13,Annual Pass,onsite,8,150.0,0
+2025-07-14,Adult,online,103,31.5,4
+2025-07-14,Adult,onsite,40,35.0,2
+2025-07-14,Child,,20,18.0,0
+2025-07-14,Child,onsite,85,20.0,0
+2025-07-14,Senior,online,32,24.75,0
+2025-07-14,SENIOR,onsite,85,27.5,1
+2025-07-14,Family,online,49,84.38,2
+2025-07-14,Family,onsite,111,93.75,8
+2025-07-14,ANNUAL PASS,online,12,135.0,0
+2025-07-14,Annual Pass,onsite,6,150.0,0
+2025-07-15,Adult,online,92,31.5,3
+2025-07-15,Adult,onsite,36,35.0,1
+2025-07-15,Child,online,34,18.0,0
+2025-07-15,Child,onsite,84,20.0,4
+2025-07-15,Senior,online,36,24.75,2
+2025-07-15,Senior,onsite,116,27.5,2
+2025-07-15,family ,online,60,84.38,1
+2025-07-15,Family,onsite,34,93.75,2
+2025-07-15,Annual Pass,online,6,135.0,0
+2025-07-15,Annual Pass,onsite,16,150.0,0
+2025-07-16,Adult,online,77,31.5,1
+2025-07-16,Adult,onsite,51,35.0,3
+2025-07-16,Child,online,98,18.0,4
+2025-07-16,Child,onsite,45,20.0,2
+2025-07-16,Senior,online,76,24.75,1
+2025-07-16,Senior,onsite,97,27.5,5
+2025-07-16,Family,online,55,84.38,2
+2025-07-16,Family,onsite,91,93.75,6
+2025-07-16,Annual Pass,online,7,135.0,0
+2025-07-16,Annual Pass,onsite,6,150.0,0
+2025-07-17,ADULT,online,112,31.5,7
+2025-07-17,Adult,onsite,113,35.0,1
+2025-07-17,CHILD,online,73,18.0,0
+2025-07-17,Child,onsite,20,20.0,0
+2025-07-17,Senior,online,86,24.75,6
+2025-07-17,Senior,onsite,24,27.5,0
+2025-07-17,Family,online,110,84.38,1
+2025-07-17,Family,onsite,25,93.75,0
+2025-07-17,Annual Pass,online,13,135.0,0
+2025-07-17,ANNUAL PASS,onsite,10,150.0,0
+2025-07-18,Adult,online,112,31.5,8
+2025-07-18,Adult,onsite,113,,8
+2025-07-18,Child,online,66,18.0,1
+2025-07-18,Child,onsite,60,20.0,0
+2025-07-18,Senior,,109,24.75,3
+2025-07-18,Senior,onsite,45,27.5,1
+2025-07-18,Family,online,73,84.38,1
+2025-07-18,FAMILY,onsite,33,93.75,1
+2025-07-18,Annual Pass,online,4,135.0,0
+2025-07-18,Annual Pass,onsite,3,150.0,0
+2025-07-19,Adult,online,18,31.5,0
+2025-07-19,Adult,onsite,57,35.0,3
+2025-07-19,Child,online,61,18.0,0
+2025-07-19,Child,onsite,32,20.0,0
+2025-07-19,SENIOR,online,37,24.75,1
+2025-07-19,Senior,onsite,16,27.5,0
+2025-07-19,Family,online,28,84.38,0
+2025-07-19,Family,onsite,37,93.75,1
+2025-07-19,Annual Pass,online,7,135.0,0
+2025-07-19,Annual Pass,onsite,2,150.0,0
+2025-07-20,Adult,online,21,31.5,0
+2025-07-20,Adult,onsite,90,35.0,7
+2025-07-20,Child,online,62,18.0,0
+2025-07-20,Child,onsite,91,,1
+2025-07-20,Senior,online,86,24.75,2
+2025-07-20,Senior,onsite,63,27.5,1
+2025-07-20,Family,online,86,84.38,4
+2025-07-20,Family,onsite,101,93.75,6
+2025-07-20,annual pass ,online,7,135.0,0
+2025-07-20,Annual Pass,onsite,12,150.0,0
+2025-07-21,adult ,online,39,31.5,1
+2025-07-21,Adult,onsite,50,35.0,1
+2025-07-21,Child,online,32,18.0,1
+2025-07-21,Child,onsite,104,20.0,4
+2025-07-21,Senior,online,31,24.75,1
+2025-07-21,Senior,onsite,99,27.5,1
+2025-07-21,Family,online,115,84.38,0
+2025-07-21,Family,onsite,69,93.75,2
+2025-07-21,Annual Pass,online,10,135.0,0
+2025-07-21,Annual Pass,,3,150.0,0
+2025-07-22,Adult,online,42,31.5,1
+2025-07-22,Adult,onsite,29,35.0,0
+2025-07-22,Child,online,29,18.0,1
+2025-07-22,Child,onsite,64,20.0,0
+2025-07-22,Senior,online,18,24.75,0
+2025-07-22,Senior,onsite,68,27.5,4
+2025-07-22,Family,,29,84.38,2
+2025-07-22,Family,,55,93.75,1
+2025-07-22,Annual Pass,online,9,135.0,0
+2025-07-22,Annual Pass,onsite,10,150.0,0
+2025-07-23,Adult,online,64,31.5,1
+2025-07-23,Adult,onsite,59,35.0,2
+2025-07-23,Child,online,67,18.0,2
+2025-07-23,Child,onsite,76,20.0,5
+2025-07-23,Senior,online,108,24.75,7
+2025-07-23,Senior,onsite,62,27.5,2
+2025-07-23,FAMILY,online,33,84.38,1
+2025-07-23,Family,onsite,31,93.75,0
+2025-07-23,Annual Pass,online,14,135.0,0
+2025-07-23,Annual Pass,onsite,3,150.0,0
+2025-07-24,Adult,online,28,31.5,0
+2025-07-24,Adult,onsite,50,35.0,1
+2025-07-24,CHILD,online,74,18.0,0
+2025-07-24,CHILD,onsite,108,20.0,3
+2025-07-24,Senior,online,58,24.75,1
+2025-07-24,Senior,onsite,88,27.5,5
+2025-07-24,Family,online,42,84.38,3
+2025-07-24,family ,onsite,56,93.75,4
+2025-07-24,Annual Pass,online,9,135.0,0
+2025-07-24,Annual Pass,onsite,13,150.0,0
+2025-07-25,Adult,online,69,31.5,2
+2025-07-25,Adult,onsite,98,35.0,6
+2025-07-25,Child,online,34,18.0,1
+2025-07-25,Child,onsite,31,20.0,1
+2025-07-25,Senior,online,32,24.75,1
+2025-07-25,Senior,onsite,117,27.5,5
+2025-07-25,Family,online,112,84.38,3
+2025-07-25,family ,onsite,73,93.75,1
+2025-07-25,Annual Pass,online,14,135.0,0
+2025-07-25,Annual Pass,onsite,6,150.0,0
+2025-07-26,Adult,online,31,31.5,2
+2025-07-26,Adult,onsite,33,35.0,1
+2025-07-26,Child,online,62,18.0,1
+2025-07-26,Child,onsite,89,20.0,1
+2025-07-26,Senior,online,25,24.75,0
+2025-07-26,Senior,onsite,35,,0
+2025-07-26,Family,online,103,84.38,3
+2025-07-26,Family,onsite,72,93.75,5
+2025-07-26,Annual Pass,online,12,135.0,0
+2025-07-26,Annual Pass,onsite,12,150.0,0
+2025-07-27,Adult,online,114,31.5,4
+2025-07-27,Adult,onsite,50,35.0,0
+2025-07-27,Child,online,57,18.0,4
+2025-07-27,Child,onsite,59,20.0,3
+2025-07-27,Senior,online,89,24.75,3
+2025-07-27,Senior,onsite,25,27.5,0
+2025-07-27,Family,online,56,84.38,3
+2025-07-27,FAMILY,onsite,30,93.75,0
+2025-07-27,Annual Pass,online,6,135.0,0
+2025-07-27,Annual Pass,onsite,3,150.0,0
+2025-07-28,Adult,online,50,31.5,3
+2025-07-28,Adult,onsite,51,35.0,1
+2025-07-28,Child,online,53,18.0,3
+2025-07-28,Child,onsite,22,20.0,1
+2025-07-28,senior ,online,36,24.75,1
+2025-07-28,Senior,onsite,43,27.5,0
+2025-07-28,Family,online,119,84.38,4
+2025-07-28,Family,onsite,96,93.75,3
+2025-07-28,Annual Pass,online,17,135.0,0
+2025-07-28,Annual Pass,onsite,17,150.0,0
+2025-07-29,Adult,online,29,31.5,0
+2025-07-29,Adult,onsite,99,35.0,7
+2025-07-29,Child,online,49,18.0,0
+2025-07-29,Child,onsite,91,20.0,3
+2025-07-29,Senior,online,64,24.75,4
+2025-07-29,Senior,onsite,56,27.5,1
+2025-07-29,Family,online,64,84.38,2
+2025-07-29,Family,onsite,61,93.75,2
+2025-07-29,Annual Pass,online,17,135.0,0
+2025-07-29,Annual Pass,onsite,5,150.0,0
+2025-07-30,Adult,online,42,31.5,2
+2025-07-30,Adult,onsite,73,35.0,4
+2025-07-30,Child,online,115,18.0,3
+2025-07-30,Child,onsite,54,20.0,2
+2025-07-30,Senior,online,65,24.75,2
+2025-07-30,Senior,onsite,76,27.5,6
+2025-07-30,Family,online,98,,7
+2025-07-30,Family,onsite,95,93.75,3
+2025-07-30,Annual Pass,online,7,135.0,0
+2025-07-30,Annual Pass,onsite,6,150.0,0
+2025-07-31,Adult,online,37,31.5,2
+2025-07-31,Adult,onsite,40,35.0,1
+2025-07-31,Child,online,66,18.0,3
+2025-07-31,Child,onsite,23,20.0,1
+2025-07-31,Senior,online,61,,3
+2025-07-31,Senior,onsite,65,27.5,4
+2025-07-31,Family,online,52,84.38,1
+2025-07-31,Family,onsite,63,93.75,3
+2025-07-31,Annual Pass,online,8,135.0,0
+2025-07-31,Annual Pass,onsite,3,150.0,0
+2025-08-01,Adult,online,57,31.5,1
+2025-08-01,Adult,onsite,32,35.0,1
+2025-08-01,Child,online,102,18.0,3
+2025-08-01,Child,onsite,65,20.0,1
+2025-08-01,Senior,online,48,24.75,2
+2025-08-01,senior ,onsite,113,27.5,8
+2025-08-01,Family,online,28,84.38,0
+2025-08-01,Family,onsite,82,93.75,3
+2025-08-01,Annual Pass,online,12,135.0,0
+2025-08-01,Annual Pass,onsite,4,150.0,0
+2025-08-02,Adult,online,66,31.5,4
+2025-08-02,Adult,onsite,113,35.0,7
+2025-08-02,Child,online,50,,3
+2025-08-02,CHILD,onsite,110,20.0,0
+2025-08-02,Senior,online,71,24.75,4
+2025-08-02,Senior,onsite,63,27.5,2
+2025-08-02,Family,online,25,84.38,1
+2025-08-02,Family,onsite,92,93.75,2
+2025-08-02,Annual Pass,online,13,135.0,0
+2025-08-02,Annual Pass,onsite,14,150.0,1
+2025-08-03,ADULT,online,29,31.5,0
+2025-08-03,Adult,onsite,81,,3
+2025-08-03,Child,online,93,18.0,7
+2025-08-03,Child,onsite,85,20.0,1
+2025-08-03,Senior,online,100,24.75,3
+2025-08-03,Senior,onsite,34,27.5,0
+2025-08-03,Family,online,112,84.38,1
+2025-08-03,Family,onsite,27,93.75,1
+2025-08-03,Annual Pass,online,14,135.0,0
+2025-08-03,Annual Pass,onsite,9,150.0,0
+2025-08-04,Adult,online,49,31.5,3
+2025-08-04,Adult,onsite,31,35.0,0
+2025-08-04,Child,online,20,18.0,0
+2025-08-04,Child,onsite,73,20.0,3
+2025-08-04,Senior,online,109,24.75,0
+2025-08-04,Senior,onsite,32,27.5,0
+2025-08-04,Family,online,85,84.38,3
+2025-08-04,Family,onsite,112,93.75,2
+2025-08-04,Annual Pass,online,17,135.0,0
+2025-08-04,Annual Pass,onsite,6,150.0,0
+2025-08-05,Adult,online,28,31.5,0
+2025-08-05,Adult,onsite,33,35.0,2
+2025-08-05,Child,online,69,18.0,1
+2025-08-05,Child,onsite,69,20.0,2
+2025-08-05,Senior,online,37,24.75,0
+2025-08-05,SENIOR,onsite,20,27.5,0
+2025-08-05,Family,online,24,84.38,1
+2025-08-05,Family,onsite,28,93.75,0
+2025-08-05,Annual Pass,online,10,135.0,0
+2025-08-05,Annual Pass,onsite,7,150.0,0
+2025-08-06,Adult,online,69,31.5,0
+2025-08-06,Adult,,80,,3
+2025-08-06,CHILD,online,98,18.0,4
+2025-08-06,Child,onsite,116,20.0,0
+2025-08-06,Senior,online,21,24.75,0
+2025-08-06,senior ,onsite,51,27.5,1
+2025-08-06,Family,online,24,84.38,0
+2025-08-06,Family,onsite,111,93.75,7
+2025-08-06,Annual Pass,online,15,135.0,0
+2025-08-06,Annual Pass,onsite,6,150.0,0
+2025-08-07,Adult,online,73,31.5,0
+2025-08-07,Adult,onsite,24,35.0,0
+2025-08-07,Child,online,99,18.0,3
+2025-08-07,Child,onsite,31,20.0,0
+2025-08-07,Senior,online,109,24.75,5
+2025-08-07,Senior,onsite,67,27.5,2
+2025-08-07,Family,online,29,84.38,1
+2025-08-07,Family,onsite,44,93.75,2
+2025-08-07,Annual Pass,online,10,135.0,0
+2025-08-07,Annual Pass,onsite,10,150.0,0
+2025-08-08,Adult,online,51,31.5,3
+2025-08-08,Adult,onsite,30,35.0,0
+2025-08-08,Child,online,82,18.0,1
+2025-08-08,Child,onsite,88,20.0,6
+2025-08-08,SENIOR,online,30,24.75,0
+2025-08-08,Senior,onsite,67,27.5,2
+2025-08-08,Family,online,55,84.38,0
+2025-08-08,FAMILY,onsite,64,93.75,1
+2025-08-08,Annual Pass,online,5,135.0,0
+2025-08-08,ANNUAL PASS,onsite,10,150.0,0
+2025-08-09,Adult,online,18,31.5,1
+2025-08-09,Adult,onsite,28,35.0,1
+2025-08-09,Child,online,24,18.0,1
+2025-08-09,Child,onsite,24,,1
+2025-08-09,Senior,online,22,24.75,1
+2025-08-09,Senior,onsite,52,27.5,0
+2025-08-09,Family,online,39,,3
+2025-08-09,Family,onsite,70,,4
+2025-08-09,ANNUAL PASS,online,4,135.0,0
+2025-08-09,Annual Pass,onsite,2,150.0,0
+2025-08-10,Adult,online,70,31.5,4
+2025-08-10,Adult,onsite,53,35.0,2
+2025-08-10,Child,online,45,18.0,1
+2025-08-10,Child,onsite,71,20.0,3
+2025-08-10,Senior,online,46,24.75,1
+2025-08-10,Senior,,42,27.5,3
+2025-08-10,Family,online,89,84.38,3
+2025-08-10,Family,onsite,57,93.75,0
+2025-08-10,Annual Pass,online,16,135.0,1
+2025-08-10,Annual Pass,onsite,8,150.0,0
+2025-08-11,Adult,online,39,31.5,1
+2025-08-11,Adult,onsite,99,35.0,4
+2025-08-11,Child,online,20,18.0,1
+2025-08-11,Child,onsite,48,20.0,2
+2025-08-11,Senior,online,49,24.75,1
+2025-08-11,Senior,onsite,68,27.5,0
+2025-08-11,Family,online,33,84.38,2
+2025-08-11,Family,onsite,76,93.75,5
+2025-08-11,Annual Pass,,9,135.0,0
+2025-08-11,Annual Pass,onsite,6,150.0,0
+2025-08-12,Adult,online,65,31.5,4
+2025-08-12,Adult,onsite,64,35.0,4
+2025-08-12,Child,online,36,18.0,0
+2025-08-12,Child,onsite,39,20.0,0
+2025-08-12,Senior,online,43,24.75,2
+2025-08-12,Senior,onsite,33,27.5,1
+2025-08-12,family ,online,13,84.38,0
+2025-08-12,Family,onsite,58,93.75,2
+2025-08-12,Annual Pass,online,9,135.0,0
+2025-08-12,Annual Pass,onsite,5,150.0,0
+2025-08-13,Adult,online,47,31.5,3
+2025-08-13,Adult,onsite,76,35.0,4
+2025-08-13,Child,online,71,18.0,4
+2025-08-13,Child,onsite,116,20.0,1
+2025-08-13,Senior,online,82,24.75,4
+2025-08-13,Senior,onsite,40,27.5,0
+2025-08-13,FAMILY,online,44,84.38,0
+2025-08-13,Family,onsite,112,93.75,2
+2025-08-13,Annual Pass,online,15,135.0,0
+2025-08-13,ANNUAL PASS,onsite,4,150.0,0
+2025-08-14,Adult,online,44,31.5,1
+2025-08-14,Adult,onsite,48,35.0,0
+2025-08-14,Child,online,58,18.0,3
+2025-08-14,Child,onsite,48,20.0,0
+2025-08-14,Senior,online,85,24.75,4
+2025-08-14,Senior,,33,27.5,2
+2025-08-14,Family,online,70,84.38,4
+2025-08-14,Family,onsite,71,93.75,0
+2025-08-14,Annual Pass,online,9,135.0,0
+2025-08-14,Annual Pass,onsite,16,150.0,0
+2025-08-15,Adult,online,48,31.5,0
+2025-08-15,Adult,onsite,27,35.0,1
+2025-08-15,CHILD,online,61,18.0,0
+2025-08-15,Child,onsite,51,20.0,2
+2025-08-15,Senior,online,58,24.75,4
+2025-08-15,Senior,onsite,55,27.5,1
+2025-08-15,Family,online,27,84.38,0
+2025-08-15,Family,onsite,49,93.75,0
+2025-08-15,Annual Pass,online,2,135.0,0
+2025-08-15,Annual Pass,onsite,7,150.0,0
+2025-08-16,ADULT,online,99,31.5,0
+2025-08-16,ADULT,onsite,23,35.0,0
+2025-08-16,Child,online,106,18.0,2
+2025-08-16,Child,onsite,72,20.0,1
+2025-08-16,Senior,online,55,24.75,3
+2025-08-16,Senior,onsite,82,27.5,5
+2025-08-16,family ,online,30,,1
+2025-08-16,Family,onsite,102,93.75,2
+2025-08-16,Annual Pass,online,16,135.0,0
+2025-08-16,Annual Pass,onsite,10,150.0,0
+2025-08-17,Adult,online,109,31.5,5
+2025-08-17,Adult,onsite,23,35.0,0
+2025-08-17,Child,online,40,18.0,2
+2025-08-17,Child,onsite,26,20.0,1
+2025-08-17,Senior,online,103,24.75,6
+2025-08-17,Senior,onsite,93,27.5,6
+2025-08-17,Family,online,92,84.38,0
+2025-08-17,Family,onsite,67,93.75,4
+2025-08-17,Annual Pass,online,3,135.0,0
+2025-08-17,Annual Pass,onsite,13,150.0,0
+2025-08-18,Adult,online,32,31.5,1
+2025-08-18,Adult,onsite,81,35.0,5
+2025-08-18,CHILD,online,43,18.0,0
+2025-08-18,CHILD,onsite,100,20.0,4
+2025-08-18,senior ,online,44,24.75,0
+2025-08-18,Senior,onsite,51,27.5,2
+2025-08-18,Family,online,59,84.38,3
+2025-08-18,Family,onsite,40,93.75,2
+2025-08-18,Annual Pass,online,9,135.0,0
+2025-08-18,Annual Pass,onsite,6,150.0,0
+2025-08-19,Adult,online,32,31.5,1
+2025-08-19,Adult,onsite,66,35.0,4
+2025-08-19,Child,,19,18.0,1
+2025-08-19,Child,,38,20.0,2
+2025-08-19,Senior,online,28,24.75,1
+2025-08-19,SENIOR,onsite,63,27.5,1
+2025-08-19,Family,online,25,84.38,0
+2025-08-19,Family,onsite,13,93.75,0
+2025-08-19,Annual Pass,online,4,135.0,0
+2025-08-19,Annual Pass,onsite,1,150.0,0
+2025-08-20,Adult,online,112,31.5,6
+2025-08-20,Adult,onsite,113,35.0,2
+2025-08-20,Child,online,91,18.0,5
+2025-08-20,Child,onsite,119,20.0,2
+2025-08-20,Senior,online,47,24.75,3
+2025-08-20,Senior,onsite,23,27.5,0
+2025-08-20,Family,online,97,84.38,0
+2025-08-20,FAMILY,,104,93.75,3
+2025-08-20,Annual Pass,online,8,135.0,0
+2025-08-20,Annual Pass,onsite,4,150.0,0
+2025-08-21,Adult,online,45,31.5,2
+2025-08-21,Adult,onsite,37,35.0,2
+2025-08-21,Child,online,38,18.0,1
+2025-08-21,Child,onsite,42,,3
+2025-08-21,Senior,online,104,24.75,7
+2025-08-21,Senior,onsite,30,27.5,1
+2025-08-21,Family,online,77,84.38,5
+2025-08-21,Family,onsite,48,93.75,0
+2025-08-21,Annual Pass,online,16,135.0,0
+2025-08-21,Annual Pass,onsite,8,150.0,0
+2025-08-22,Adult,online,41,31.5,1
+2025-08-22,Adult,onsite,91,35.0,6
+2025-08-22,Child,online,35,18.0,2
+2025-08-22,Child,onsite,119,20.0,5
+2025-08-22,Senior,online,73,24.75,0
+2025-08-22,Senior,onsite,85,27.5,3
+2025-08-22,Family,online,111,84.38,2
+2025-08-22,Family,onsite,51,93.75,3
+2025-08-22,Annual Pass,online,9,135.0,0
+2025-08-22,Annual Pass,onsite,10,150.0,0
+2025-08-23,Adult,online,70,31.5,5
+2025-08-23,Adult,onsite,51,35.0,2
+2025-08-23,Child,online,36,18.0,1
+2025-08-23,Child,onsite,23,20.0,0
+2025-08-23,Senior,online,57,24.75,3
+2025-08-23,Senior,onsite,61,27.5,0
+2025-08-23,Family,online,43,84.38,1
+2025-08-23,Family,onsite,26,93.75,0
+2025-08-23,Annual Pass,online,7,135.0,0
+2025-08-23,Annual Pass,onsite,10,150.0,0
+2025-08-24,Adult,online,95,31.5,5
+2025-08-24,Adult,,102,35.0,4
+2025-08-24,Child,online,87,18.0,3
+2025-08-24,Child,onsite,47,20.0,2
+2025-08-24,Senior,online,71,24.75,2
+2025-08-24,Senior,onsite,58,27.5,3
+2025-08-24,Family,online,108,84.38,6
+2025-08-24,Family,onsite,51,93.75,1
+2025-08-24,Annual Pass,online,6,135.0,0
+2025-08-24,Annual Pass,onsite,4,150.0,0
+2025-08-25,Adult,,42,31.5,0
+2025-08-25,Adult,onsite,43,35.0,0
+2025-08-25,Child,online,28,18.0,2
+2025-08-25,Child,onsite,39,20.0,2
+2025-08-25,senior ,online,64,24.75,2
+2025-08-25,Senior,onsite,51,27.5,3
+2025-08-25,Family,online,16,84.38,0
+2025-08-25,Family,onsite,52,93.75,0
+2025-08-25,Annual Pass,online,2,135.0,0
+2025-08-25,Annual Pass,onsite,9,150.0,0
+2025-08-26,Adult,online,78,31.5,5
+2025-08-26,Adult,onsite,68,35.0,1
+2025-08-26,Child,online,28,18.0,1
+2025-08-26,Child,,69,20.0,3
+2025-08-26,Senior,online,81,24.75,4
+2025-08-26,Senior,onsite,115,27.5,8
+2025-08-26,Family,online,69,84.38,3
+2025-08-26,Family,onsite,41,93.75,3
+2025-08-26,Annual Pass,online,9,135.0,0
+2025-08-26,Annual Pass,onsite,12,150.0,0
+2025-08-27,Adult,online,104,,7
+2025-08-27,Adult,onsite,46,35.0,0
+2025-08-27,Child,online,52,18.0,2
+2025-08-27,Child,onsite,46,20.0,0
+2025-08-27,Senior,online,24,24.75,0
+2025-08-27,Senior,onsite,97,27.5,0
+2025-08-27,FAMILY,online,73,84.38,5
+2025-08-27,Family,onsite,53,93.75,1
+2025-08-27,Annual Pass,online,6,135.0,0
+2025-08-27,Annual Pass,onsite,13,150.0,0
+2025-08-28,ADULT,online,75,31.5,1
+2025-08-28,Adult,onsite,72,35.0,2
+2025-08-28,Child,,22,18.0,1
+2025-08-28,Child,onsite,101,20.0,3
+2025-08-28,Senior,online,106,24.75,0
+2025-08-28,Senior,onsite,22,27.5,1
+2025-08-28,Family,online,78,84.38,2
+2025-08-28,Family,onsite,62,93.75,3
+2025-08-28,Annual Pass,online,17,135.0,0
+2025-08-28,Annual Pass,onsite,9,150.0,0
+2025-08-29,Adult,online,34,31.5,2
+2025-08-29,Adult,,54,35.0,1
+2025-08-29,Child,online,38,18.0,1
+2025-08-29,Child,onsite,49,20.0,0
+2025-08-29,Senior,online,47,24.75,0
+2025-08-29,senior ,onsite,61,27.5,3
+2025-08-29,FAMILY,online,56,84.38,3
+2025-08-29,Family,onsite,64,93.75,1
+2025-08-29,Annual Pass,online,6,135.0,0
+2025-08-29,Annual Pass,onsite,6,150.0,0
+2025-08-30,ADULT,online,27,31.5,0
+2025-08-30,Adult,onsite,39,35.0,2
+2025-08-30,Child,online,82,18.0,3
+2025-08-30,Child,onsite,20,20.0,0
+2025-08-30,Senior,online,47,24.75,1
+2025-08-30,Senior,onsite,49,27.5,2
+2025-08-30,Family,online,80,84.38,3
+2025-08-30,Family,onsite,119,93.75,8
+2025-08-30,Annual Pass,online,7,,0
+2025-08-30,annual pass ,onsite,13,150.0,0
+2025-08-31,adult ,online,82,31.5,3
+2025-08-31,Adult,onsite,54,35.0,0
+2025-08-31,Child,online,62,18.0,3
+2025-08-31,Child,onsite,76,20.0,3
+2025-08-31,Senior,online,41,24.75,0
+2025-08-31,Senior,onsite,84,27.5,2
+2025-08-31,Family,online,116,84.38,6
+2025-08-31,Family,onsite,20,93.75,0
+2025-08-31,ANNUAL PASS,online,5,135.0,0
+2025-08-31,Annual Pass,onsite,4,150.0,0
+2025-09-01,Adult,online,96,31.5,1
+2025-09-01,Adult,onsite,55,35.0,3
+2025-09-01,Child,online,41,18.0,0
+2025-09-01,Child,onsite,63,20.0,2
+2025-09-01,Senior,online,109,24.75,5
+2025-09-01,Senior,onsite,97,27.5,2
+2025-09-01,Family,online,112,84.38,1
+2025-09-01,Family,onsite,39,93.75,1
+2025-09-01,Annual Pass,,16,135.0,1
+2025-09-01,Annual Pass,onsite,12,150.0,0
+2025-09-02,Adult,,47,31.5,0
+2025-09-02,Adult,onsite,67,35.0,3
+2025-09-02,Child,online,84,18.0,3
+2025-09-02,Child,onsite,91,20.0,5
+2025-09-02,Senior,online,103,24.75,0
+2025-09-02,Senior,onsite,105,27.5,2
+2025-09-02,Family,online,53,84.38,2
+2025-09-02,Family,,118,93.75,6
+2025-09-02,annual pass ,online,9,135.0,0
+2025-09-02,Annual Pass,onsite,5,150.0,0
+2025-09-03,Adult,online,88,31.5,2
+2025-09-03,Adult,onsite,51,35.0,2
+2025-09-03,child ,online,28,18.0,2
+2025-09-03,Child,,28,20.0,0
+2025-09-03,Senior,online,21,24.75,1
+2025-09-03,Senior,onsite,50,27.5,2
+2025-09-03,Family,online,93,84.38,2
+2025-09-03,Family,onsite,76,93.75,2
+2025-09-03,Annual Pass,online,17,135.0,0
+2025-09-03,Annual Pass,onsite,8,150.0,0
+2025-09-04,Adult,online,22,31.5,1
+2025-09-04,Adult,onsite,71,35.0,2
+2025-09-04,Child,online,32,18.0,2
+2025-09-04,Child,onsite,42,20.0,0
+2025-09-04,Senior,online,42,24.75,2
+2025-09-04,Senior,onsite,45,27.5,2
+2025-09-04,Family,online,33,84.38,2
+2025-09-04,Family,onsite,66,93.75,0
+2025-09-04,Annual Pass,online,8,135.0,0
+2025-09-04,Annual Pass,onsite,8,150.0,0
+2025-09-05,ADULT,online,68,31.5,2
+2025-09-05,Adult,onsite,113,35.0,8
+2025-09-05,Child,online,77,18.0,3
+2025-09-05,Child,onsite,79,20.0,4
+2025-09-05,Senior,online,33,24.75,1
+2025-09-05,Senior,onsite,99,27.5,1
+2025-09-05,Family,online,85,84.38,1
+2025-09-05,Family,onsite,105,93.75,3
+2025-09-05,Annual Pass,online,14,135.0,0
+2025-09-05,Annual Pass,onsite,8,150.0,0
+2025-09-06,Adult,online,44,31.5,3
+2025-09-06,Adult,onsite,59,35.0,1
+2025-09-06,Child,online,79,18.0,3
+2025-09-06,Child,onsite,22,20.0,1
+2025-09-06,Senior,online,70,24.75,0
+2025-09-06,SENIOR,onsite,43,27.5,1
+2025-09-06,Family,online,58,84.38,0
+2025-09-06,Family,onsite,68,93.75,1
+2025-09-06,Annual Pass,online,10,135.0,0
+2025-09-06,Annual Pass,onsite,12,150.0,0
+2025-09-07,ADULT,online,70,31.5,3
+2025-09-07,Adult,onsite,62,35.0,0
+2025-09-07,Child,online,100,18.0,7
+2025-09-07,Child,onsite,104,20.0,8
+2025-09-07,senior ,,95,24.75,6
+2025-09-07,Senior,onsite,90,27.5,1
+2025-09-07,FAMILY,online,63,84.38,2
+2025-09-07,Family,onsite,25,93.75,1
+2025-09-07,Annual Pass,online,14,135.0,0
+2025-09-07,ANNUAL PASS,onsite,9,150.0,0
+2025-09-08,Adult,online,73,31.5,2
+2025-09-08,Adult,onsite,34,35.0,1
+2025-09-08,Child,online,81,18.0,5
+2025-09-08,Child,,76,20.0,0
+2025-09-08,Senior,online,92,24.75,5
+2025-09-08,Senior,onsite,53,27.5,2
+2025-09-08,Family,online,94,84.38,5
+2025-09-08,Family,onsite,116,93.75,7
+2025-09-08,Annual Pass,online,10,135.0,0
+2025-09-08,Annual Pass,onsite,6,150.0,0
+2025-09-09,Adult,online,42,31.5,0
+2025-09-09,Adult,onsite,12,35.0,0
+2025-09-09,Child,online,39,18.0,2
+2025-09-09,Child,onsite,54,20.0,0
+2025-09-09,Senior,online,39,24.75,1
+2025-09-09,Senior,onsite,45,27.5,1
+2025-09-09,Family,online,63,84.38,2
+2025-09-09,Family,onsite,36,93.75,1
+2025-09-09,Annual Pass,online,10,135.0,0
+2025-09-09,Annual Pass,onsite,8,150.0,0
+2025-09-10,Adult,online,82,31.5,3
+2025-09-10,Adult,onsite,48,35.0,2
+2025-09-10,Child,online,57,18.0,4
+2025-09-10,Child,onsite,31,20.0,0
+2025-09-10,Senior,online,117,24.75,5
+2025-09-10,Senior,onsite,47,27.5,2
+2025-09-10,Family,online,83,84.38,4
+2025-09-10,Family,onsite,60,93.75,3
+2025-09-10,ANNUAL PASS,online,16,135.0,0
+2025-09-10,annual pass ,onsite,12,150.0,0
+2025-09-11,ADULT,online,61,31.5,0
+2025-09-11,Adult,onsite,70,,0
+2025-09-11,Child,online,80,18.0,1
+2025-09-11,Child,onsite,22,20.0,1
+2025-09-11,Senior,online,39,24.75,2
+2025-09-11,Senior,onsite,67,27.5,3
+2025-09-11,Family,online,23,84.38,1
+2025-09-11,Family,onsite,44,93.75,0
+2025-09-11,Annual Pass,online,15,135.0,1
+2025-09-11,Annual Pass,onsite,3,150.0,0
+2025-09-12,Adult,online,67,31.5,2
+2025-09-12,Adult,onsite,73,35.0,4
+2025-09-12,child ,online,63,18.0,4
+2025-09-12,Child,onsite,92,20.0,0
+2025-09-12,Senior,online,64,24.75,4
+2025-09-12,Senior,onsite,77,27.5,4
+2025-09-12,Family,online,34,84.38,0
+2025-09-12,Family,onsite,89,93.75,3
+2025-09-12,Annual Pass,online,8,135.0,0
+2025-09-12,Annual Pass,onsite,7,,0
+2025-09-13,Adult,online,108,31.5,4
+2025-09-13,Adult,onsite,76,35.0,1
+2025-09-13,Child,online,100,18.0,1
+2025-09-13,Child,onsite,42,,2
+2025-09-13,Senior,online,56,24.75,2
+2025-09-13,Senior,onsite,110,27.5,8
+2025-09-13,Family,online,72,84.38,2
+2025-09-13,Family,onsite,68,93.75,2
+2025-09-13,Annual Pass,online,6,135.0,0
+2025-09-13,Annual Pass,onsite,4,150.0,0
+2025-09-14,Adult,online,21,31.5,1
+2025-09-14,ADULT,onsite,94,35.0,2
+2025-09-14,Child,online,70,18.0,1
+2025-09-14,Child,onsite,27,20.0,1
+2025-09-14,Senior,online,99,24.75,1
+2025-09-14,Senior,onsite,91,27.5,1
+2025-09-14,Family,online,94,84.38,5
+2025-09-14,Family,onsite,50,93.75,0
+2025-09-14,annual pass ,online,4,135.0,0
+2025-09-14,Annual Pass,onsite,10,150.0,0
+2025-09-15,ADULT,online,47,31.5,1
+2025-09-15,Adult,onsite,54,35.0,1
+2025-09-15,Child,online,57,18.0,4
+2025-09-15,Child,onsite,49,20.0,1
+2025-09-15,Senior,online,27,24.75,1
+2025-09-15,Senior,onsite,49,,0
+2025-09-15,Family,online,65,84.38,2
+2025-09-15,Family,onsite,52,93.75,0
+2025-09-15,Annual Pass,online,9,135.0,0
+2025-09-15,Annual Pass,onsite,4,150.0,0
+2025-09-16,Adult,online,41,31.5,2
+2025-09-16,Adult,onsite,37,35.0,0
+2025-09-16,Child,online,67,18.0,3
+2025-09-16,Child,onsite,46,20.0,3
+2025-09-16,Senior,online,92,24.75,6
+2025-09-16,Senior,onsite,96,27.5,0
+2025-09-16,Family,online,84,84.38,0
+2025-09-16,Family,onsite,40,,2
+2025-09-16,Annual Pass,online,9,135.0,0
+2025-09-16,Annual Pass,onsite,12,150.0,0
+2025-09-17,Adult,online,92,31.5,6
+2025-09-17,Adult,onsite,98,35.0,3
+2025-09-17,child ,online,118,18.0,5
+2025-09-17,Child,onsite,73,20.0,2
+2025-09-17,Senior,online,27,24.75,2
+2025-09-17,Senior,onsite,78,27.5,3
+2025-09-17,Family,online,74,84.38,3
+2025-09-17,Family,onsite,34,93.75,2
+2025-09-17,Annual Pass,online,17,135.0,0
+2025-09-17,Annual Pass,onsite,7,150.0,0
+2025-09-18,Adult,online,45,31.5,2
+2025-09-18,Adult,onsite,62,35.0,3
+2025-09-18,Child,online,118,18.0,3
+2025-09-18,Child,onsite,107,20.0,2
+2025-09-18,senior ,online,26,24.75,0
+2025-09-18,Senior,onsite,35,27.5,1
+2025-09-18,family ,online,85,84.38,1
+2025-09-18,Family,onsite,66,93.75,4
+2025-09-18,Annual Pass,online,5,135.0,0
+2025-09-18,Annual Pass,onsite,17,150.0,1
+2025-09-19,Adult,online,58,31.5,0
+2025-09-19,Adult,onsite,78,35.0,4
+2025-09-19,Child,online,102,18.0,7
+2025-09-19,Child,onsite,38,20.0,0
+2025-09-19,Senior,online,114,24.75,0
+2025-09-19,Senior,onsite,107,27.5,7
+2025-09-19,Family,online,119,,2
+2025-09-19,Family,onsite,107,,8
+2025-09-19,Annual Pass,online,15,135.0,1
+2025-09-19,Annual Pass,onsite,5,150.0,0
+2025-09-20,Adult,online,42,31.5,1
+2025-09-20,Adult,onsite,68,35.0,4
+2025-09-20,Child,online,24,18.0,0
+2025-09-20,Child,onsite,68,20.0,0
+2025-09-20,Senior,online,18,24.75,0
+2025-09-20,Senior,onsite,51,27.5,0
+2025-09-20,Family,online,64,84.38,0
+2025-09-20,Family,,14,93.75,0
+2025-09-20,ANNUAL PASS,online,3,135.0,0
+2025-09-20,Annual Pass,onsite,8,150.0,0
+2025-09-21,Adult,online,22,31.5,0
+2025-09-21,Adult,,33,35.0,2
+2025-09-21,Child,online,36,,1
+2025-09-21,Child,onsite,13,20.0,0
+2025-09-21,Senior,online,36,24.75,1
+2025-09-21,Senior,onsite,18,27.5,0
+2025-09-21,Family,online,69,84.38,2
+2025-09-21,FAMILY,onsite,63,93.75,4
+2025-09-21,Annual Pass,online,4,135.0,0
+2025-09-21,Annual Pass,onsite,2,150.0,0
+2025-09-22,Adult,online,71,31.5,4
+2025-09-22,Adult,onsite,91,35.0,2
+2025-09-22,Child,online,93,18.0,2
+2025-09-22,Child,onsite,71,20.0,5
+2025-09-22,Senior,online,57,24.75,0
+2025-09-22,Senior,onsite,99,,5
+2025-09-22,Family,online,83,,5
+2025-09-22,Family,onsite,68,93.75,4
+2025-09-22,Annual Pass,online,9,135.0,0
+2025-09-22,Annual Pass,onsite,14,150.0,0
+2025-09-23,Adult,online,38,31.5,1
+2025-09-23,Adult,onsite,29,35.0,1
+2025-09-23,Child,online,62,18.0,0
+2025-09-23,Child,onsite,103,20.0,0
+2025-09-23,Senior,online,65,24.75,2
+2025-09-23,Senior,onsite,38,27.5,2
+2025-09-23,Family,online,88,84.38,5
+2025-09-23,Family,onsite,97,93.75,4
+2025-09-23,Annual Pass,online,10,135.0,0
+2025-09-23,Annual Pass,onsite,13,150.0,0
+2025-09-24,Adult,online,91,31.5,3
+2025-09-24,Adult,onsite,24,35.0,1
+2025-09-24,Child,online,62,18.0,2
+2025-09-24,Child,onsite,27,20.0,1
+2025-09-24,Senior,online,79,24.75,0
+2025-09-24,Senior,onsite,36,27.5,2
+2025-09-24,Family,online,35,84.38,1
+2025-09-24,Family,onsite,42,93.75,3
+2025-09-24,Annual Pass,online,11,135.0,0
+2025-09-24,Annual Pass,onsite,7,150.0,0
+2025-09-25,Adult,online,79,31.5,1
+2025-09-25,Adult,onsite,81,35.0,0
+2025-09-25,CHILD,online,107,18.0,8
+2025-09-25,Child,onsite,82,20.0,2
+2025-09-25,Senior,online,68,24.75,1
+2025-09-25,Senior,onsite,115,27.5,7
+2025-09-25,family ,online,90,84.38,3
+2025-09-25,Family,onsite,104,93.75,6
+2025-09-25,Annual Pass,,12,135.0,0
+2025-09-25,Annual Pass,onsite,10,150.0,0
+2025-09-26,Adult,online,119,31.5,7
+2025-09-26,Adult,onsite,80,35.0,5
+2025-09-26,child ,online,103,18.0,5
+2025-09-26,Child,onsite,43,20.0,1
+2025-09-26,Senior,online,91,24.75,0
+2025-09-26,Senior,onsite,106,27.5,0
+2025-09-26,Family,online,63,84.38,4
+2025-09-26,Family,,52,93.75,1
+2025-09-26,Annual Pass,online,16,135.0,0
+2025-09-26,Annual Pass,onsite,7,150.0,0
+2025-09-27,Adult,online,96,31.5,1
+2025-09-27,Adult,onsite,94,35.0,5
+2025-09-27,Child,online,28,18.0,0
+2025-09-27,Child,onsite,51,20.0,1
+2025-09-27,Senior,online,82,24.75,4
+2025-09-27,Senior,onsite,68,27.5,1
+2025-09-27,Family,online,36,84.38,0
+2025-09-27,Family,onsite,84,93.75,1
+2025-09-27,Annual Pass,online,4,135.0,0
+2025-09-27,Annual Pass,onsite,15,150.0,0
+2025-09-28,Adult,online,58,31.5,3
+2025-09-28,Adult,onsite,81,35.0,6
+2025-09-28,Child,,44,18.0,0
+2025-09-28,Child,onsite,89,20.0,1
+2025-09-28,Senior,online,34,24.75,0
+2025-09-28,Senior,onsite,63,27.5,2
+2025-09-28,Family,online,71,84.38,2
+2025-09-28,Family,onsite,46,93.75,2
+2025-09-28,Annual Pass,online,8,135.0,0
+2025-09-28,Annual Pass,onsite,13,150.0,0
+2025-09-29,Adult,online,77,31.5,0
+2025-09-29,Adult,onsite,73,35.0,0
+2025-09-29,Child,online,90,18.0,7
+2025-09-29,Child,onsite,103,20.0,3
+2025-09-29,Senior,online,119,24.75,0
+2025-09-29,senior ,onsite,67,27.5,3
+2025-09-29,Family,,47,84.38,0
+2025-09-29,Family,onsite,63,93.75,3
+2025-09-29,Annual Pass,online,7,135.0,0
+2025-09-29,Annual Pass,onsite,10,150.0,0
+2025-09-30,adult ,online,63,31.5,4
+2025-09-30,adult ,onsite,58,35.0,0
+2025-09-30,Child,online,23,18.0,1
+2025-09-30,Child,onsite,13,20.0,0
+2025-09-30,Senior,online,36,24.75,2
+2025-09-30,Senior,onsite,40,27.5,2
+2025-09-30,family ,online,37,84.38,0
+2025-09-30,family ,onsite,33,93.75,1
+2025-09-30,annual pass ,online,4,135.0,0
+2025-09-30,Annual Pass,,2,150.0,0
+2025-06-02,Adult,online,80,31.5,2

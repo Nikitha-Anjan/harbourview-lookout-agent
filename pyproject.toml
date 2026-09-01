@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "harbourview-agent"
+version = "0.2.0"
+description = "AI operations assistant for Harbourview Lookout"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic-ai-slim[anthropic]>=2.36,<3",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0.0"]
+
+[project.scripts]
+harbourview-agent = "harbourview_agent.cli:main"
+
+[tool.setuptools]
+packages = ["harbourview_agent"]
+
+[tool.setuptools.package-data]
+harbourview_agent = ["schema.sql"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["llm: hits the Anthropic API (needs ANTHROPIC_API_KEY); run with -m 'not llm' to skip"]
+filterwarnings = [
+    # pydantic-ai's run_sync on Python 3.13 with no running loop; upstream, harmless
+    "ignore:There is no current event loop:DeprecationWarning",
+]
